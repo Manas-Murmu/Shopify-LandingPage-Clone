@@ -1,8 +1,8 @@
 # Landing Page Clones
 
-## Paytm Landing Page Clone
+## Shopify Landing Page Clone
 
-### A Landing Page of Paytm Using Tailwind CSS
+### A Landing Page of Shopify Using Tailwind CSS
 
 ![Badge](https://img.shields.io/badge/Manas--Ranjan--Murmu-Paytm--Clone-blue) ![Badge](https://img.shields.io/badge/LCO-Full%20Stack%20Javascript%20Bootcamp-orange) ![](https://img.shields.io/badge/HTML-TailWind--CSS-green)
 
@@ -16,10 +16,10 @@
 
 ---
 
-## Live Link [Demo](https://manas-ranjan-murmu-paytm-clone.netlify.app/)
+## Live Link [Demo](https://manas-ranjan-murmu-shopify-clone.netlify.app/)
 
 ### Screenshot
 
-![screeshot](./SCREENSHOT.png)
+![screeshot](./screenshot.png)
 
 ---
